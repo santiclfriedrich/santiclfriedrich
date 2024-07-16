@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **nextjs**
 
-- 👨‍💻 All of my projects are available at [wwww.google.com](www.miportfolio.com)
+- 👨‍💻 All of my projects are available at [https://portfolio-xi-taupe-12.vercel.app/](https://portfolio-xi-taupe-12.vercel.app/)
 
 - 💬 Ask me about **react**
 
