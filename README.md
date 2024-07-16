@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **nextjs**
 
-- 👨‍💻 All of my projects are available at [www.portafolio123.com](www.portafolio123.com)
+- 👨‍💻 All of my projects are available at [wwww.google.com](www.miportfolio.com)
 
 - 💬 Ask me about **react**
 
