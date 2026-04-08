@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santiclfriedrich&label=Profile%20views&color=0e75b6&style=flat" alt="santiclfriedrich" /> </p>
 
-- 🔭 I’m currently working on **my portfolio**
+- 🔭 I’m currently working on **SIC (internal comparison system)**
 
 - 🌱 I’m currently learning **nextjs**
 
